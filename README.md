@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Haakon (@landhaurum)
+- 👀 I’m interested in translation to Danish
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate more on minecraft server plugins
